@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 
-- to handle the ###`cors restriction` i've added proxy in the package.json file as we donot have acces to backend so to handle it on frontend
+- to handle the `cors restriction` i've added `proxy` in the `package.json` file as we donot have acces to backend so to handle it on frontend
 
 
 
